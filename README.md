@@ -63,5 +63,4 @@ Hello! I'm Samay, a passionate individual with a background in Computer Science 
 ## 📬 Contact Me
 
 📍 **Location:** Troy, MI  
-📞 **Phone:** (248) 433-6685  
 📧 **Email:** [samay.achar@gmail.com](mailto:samay.achar@gmail.com)
